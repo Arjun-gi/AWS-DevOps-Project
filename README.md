@@ -9,5 +9,9 @@ Steps:
      generate HTTPS credentials under security credentials of IAM user.
    ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/ee033ff6-34f5-4ddf-9245-9797d68d025d)
 
+   also provide codecommit access to IAM user by attaching policy
+   ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/e3765bea-0d2a-4f26-bb0d-e0d44c8e75a7)
+
+
 
 
