@@ -13,6 +13,7 @@ Steps:
    ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/e3765bea-0d2a-4f26-bb0d-e0d44c8e75a7)
 
 3.Clone the codecommit repository into local IDE (VScode) by providing HTTPS generated credentials.
+
 4.Add sample index.html file and push it into AWS code commit repository.
 
 ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/7dc98ad9-c679-4c25-a437-27c99a1e4c7a)
