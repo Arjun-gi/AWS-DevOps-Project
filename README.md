@@ -18,6 +18,11 @@ Steps:
 
 ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/7dc98ad9-c679-4c25-a437-27c99a1e4c7a)
 
+5. Create build project:
+    define name of build project---->define source code path(AWS codecommit), repository name, branch name
+   ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/240786a5-a288-432a-b133-240a7efdd9ae)
+
+
 
 
 
