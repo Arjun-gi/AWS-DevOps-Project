@@ -23,6 +23,7 @@ Steps:
    ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/240786a5-a288-432a-b133-240a7efdd9ae)
 
    define environment for building images from yml file
+   
    ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/c8069521-24b0-4a28-9c5c-e67502223599)
 
 
