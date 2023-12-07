@@ -26,6 +26,11 @@ Steps:
    
    ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/c8069521-24b0-4a28-9c5c-e67502223599)
 
+   create buildspec.yml file for defining stages of installation {sample file added in code [buildspec.yml]).
+
+    ![image](https://github.com/Arjun-gi/AWS-DevOps-Project/assets/85561570/67ef5759-19a3-422b-9555-9783423c8abc)
+
+
 
 
 
